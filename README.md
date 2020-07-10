@@ -11,4 +11,4 @@ Technologies used-
 6) Tomcat Server
 7) Thymeleaf for view layer
 
-![alt text](C:\Users\Abhinav\Pictures\CAPTURE.jpg)
+![alt text](<C:\Users\Abhinav\Pictures\Capture.jpg>)
